@@ -70,7 +70,7 @@ class VerifyButton extends StatelessWidget {
             ),
           );
         },
-        child: const Text('Verify'),
+        child: const Text('Vify'),
       ),
     );
   }
