@@ -13,7 +13,7 @@ class SubmitReviewPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         leading: const AppBackButton(),
-        title: const Text('Submit Review'),
+        title: const Text('Submt Review'),
       ),
       backgroundColor: AppColors.cardColor,
       body: SingleChildScrollView(
