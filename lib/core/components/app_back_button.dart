@@ -4,7 +4,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import '../constants/constants.dart';
 
 class AppBackButton extends StatelessWidget {
-  /// Custom Back labelLarge with a custom ICON for this ap
+  /// Custom Back labelLarge with a custom ICON for this a
   const AppBackButton({
     Key? key,
   }) : super(key: key);
