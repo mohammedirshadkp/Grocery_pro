@@ -84,7 +84,9 @@ class BundleTileSquare extends StatelessWidget {
                   const Spacer(),
                 ],
               ),
-              const SizedBox(height: 16),
+              const SizedBox(
+                height: 16,
+              ),
             ],
           ),
         ),
