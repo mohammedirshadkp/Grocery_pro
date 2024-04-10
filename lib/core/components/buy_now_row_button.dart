@@ -25,7 +25,7 @@ class BuyNowRow extends StatelessWidget {
             onPressed: onCartButtonTap,
             child: SvgPicture.asset(AppIcons.shoppingCart),
           ),
-          SizedBox(width: AppDefaults.padding),
+          const SizedBox(width: AppDefaults.padding),
           Expanded(
             child: ElevatedButton(
               onPressed: onBuyButtonTap,
