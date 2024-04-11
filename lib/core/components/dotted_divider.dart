@@ -9,7 +9,7 @@ class DottedDivider extends StatelessWidget {
 
   final Color? color;
   final bool isVertical;
-
+  //
   @override
   Widget build(BuildContext context) {
     if (isVertical) {
