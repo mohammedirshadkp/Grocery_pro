@@ -12,7 +12,7 @@ class DontHaveAccountRow extends StatelessWidget {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        Text('Don\'t Have Account?'),
+        const Text('Don\'t Have Account?'),
         TextButton(
           onPressed: () => Navigator.pushNamed(context, AppRoutes.signup),
           child: const Text('Sign Up'),
