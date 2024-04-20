@@ -10,7 +10,7 @@ class IntroLoginBackgroundWrapper extends StatelessWidget {
   }) : super(key: key);
 
   final String imageURL;
-  //
+
   @override
   Widget build(BuildContext context) {
     return CachedNetworkImage(
