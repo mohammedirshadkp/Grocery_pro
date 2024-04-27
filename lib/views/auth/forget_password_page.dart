@@ -14,7 +14,7 @@ class ForgetPasswordPage extends StatelessWidget {
       backgroundColor: AppColors.scaffoldWithBoxBackground,
       appBar: AppBar(
         leading: const AppBackButton(),
-        title: const Text('Forget Password'),
+        title: const Text('Forget Pssword'),
         backgroundColor: AppColors.scaffoldBackground,
       ),
       body: Center(
