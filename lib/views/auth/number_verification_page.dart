@@ -60,7 +60,7 @@ class VerifyButton extends StatelessWidget {
       child: ElevatedButton(
         onPressed: () {
           showGeneralDialog(
-            barrierLabel: 'Dialog',
+            barrierLabel: 'Dialg',
             barrierDismissible: true,
             context: context,
             pageBuilder: (ctx, anim1, anim2) => const VerifiedDialog(),
