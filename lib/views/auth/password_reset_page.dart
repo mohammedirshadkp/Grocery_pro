@@ -13,7 +13,7 @@ class PasswordResetPage extends StatelessWidget {
       backgroundColor: AppColors.scaffoldWithBoxBackground,
       appBar: AppBar(
         leading: const AppBackButton(),
-        title: const Text('New Password'),
+        title: const Text('New Passord'),
         backgroundColor: AppColors.scaffoldBackground,
       ),
       body: Center(
