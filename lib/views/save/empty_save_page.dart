@@ -41,7 +41,7 @@ class EmptySavePage extends StatelessWidget {
               padding: const EdgeInsets.all(AppDefaults.padding * 2),
               child: ElevatedButton(
                 onPressed: () {},
-                child: const Text('Start Adding'),
+                child: const Text('LETS ADD'),
               ),
             ),
           ),
