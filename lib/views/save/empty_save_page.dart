@@ -26,7 +26,7 @@ class EmptySavePage extends StatelessWidget {
             ),
           ),
           Text(
-            'Oppss!',
+            'Opppss!',
             style: Theme.of(context)
                 .textTheme
                 .titleLarge
@@ -41,7 +41,7 @@ class EmptySavePage extends StatelessWidget {
               padding: const EdgeInsets.all(AppDefaults.padding * 2),
               child: ElevatedButton(
                 onPressed: () {},
-                child: const Text('LETS ADD'),
+                child: const Text('Start Add'),
               ),
             ),
           ),
