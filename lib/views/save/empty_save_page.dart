@@ -26,7 +26,7 @@ class EmptySavePage extends StatelessWidget {
             ),
           ),
           Text(
-            'Opppss!',
+            'Oopss!',
             style: Theme.of(context)
                 .textTheme
                 .titleLarge
