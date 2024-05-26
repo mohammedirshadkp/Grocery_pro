@@ -82,7 +82,7 @@ class SubmitReviewPage extends StatelessWidget {
                   onPressed: () {
                     Navigator.pushNamed(context, AppRoutes.review);
                   },
-                  child: const Text('Subbbbmit'),
+                  child: const Text('Submit'),
                 ),
               ),
             ],
