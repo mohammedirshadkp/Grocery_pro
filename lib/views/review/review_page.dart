@@ -12,7 +12,7 @@ class ReviewPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         leading: const AppBackButton(),
-        title: const Text('Reviiew'),
+        title: const Text('Review'),
       ),
       body: const Column(
         children: [
