@@ -111,8 +111,7 @@ class NewAddressPage extends StatelessWidget {
                 ],
               ),
               const Padding(
-                padding:
-                    EdgeInsets.symmetric(vertical: AppDefaults.padding),
+                padding: EdgeInsets.symmetric(vertical: AppDefaults.padding),
                 child: Row(
                   children: [
                     AppRadio(isActive: true),
@@ -125,7 +124,7 @@ class NewAddressPage extends StatelessWidget {
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
-                  child: const Text('Save Adress'),
+                  child: const Text('Save Address'),
                   onPressed: () {},
                 ),
               ),
