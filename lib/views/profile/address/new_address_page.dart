@@ -124,7 +124,7 @@ class NewAddressPage extends StatelessWidget {
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
-                  child: const Text('Save Addddress'),
+                  child: const Text('Save Adddress'),
                   onPressed: () {},
                 ),
               ),
