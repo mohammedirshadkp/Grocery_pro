@@ -19,7 +19,7 @@ class OnboardingData {
       imageUrl: AppImages.onboarding3,
       headline: 'Delivery in 30 Min',
       description:
-          'In aliquip aute exercitation ut et nisi ut mollit. Deserunt dolor elit pariatur autewwwwwwwwiww.',
+          'In aliquip aute exercitation ut et nisi ut mollit. Deserunt dolor elit pariatur autewwwwwwwwwiww.',
     ),
   ];
 }
